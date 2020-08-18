@@ -1,0 +1,64 @@
+{
+  "name": "@timarandras/intro",
+  "private": true,
+  "description": "András Timár's introduction page",
+  "version": "1.0.0",
+  "author": "András Timár, PhD <timaromar@gmail.com>",
+  "dependencies": {
+    "babel-jest": "^26.3.0",
+    "classnames": "^2.2.6",
+    "gatsby": "^2.24.47",
+    "gatsby-plugin-manifest": "^2.4.23",
+    "gatsby-plugin-offline": "^3.2.23",
+    "gatsby-plugin-react-helmet": "^3.3.10",
+    "gatsby-source-filesystem": "^2.3.24",
+    "primeicons": "^4.0.0",
+    "primereact": "^4.2.2",
+    "prop-types": "^15.7.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-helmet": "^6.1.0",
+    "react-transition-group": "^4.4.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.1",
+    "@testing-library/jest-dom": "^5.11.3",
+    "@testing-library/react": "^10.4.8",
+    "babel-preset-gatsby": "^0.5.5",
+    "core-js": "^3.6.5",
+    "eslint": "^7.7.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.20.6",
+    "eslint-plugin-react-hooks": "^4.1.0",
+    "eslint-plugin-simple-import-sort": "^5.0.3",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^26.4.0",
+    "prettier": "2.0.5",
+    "react-test-renderer": "^16.13.1",
+    "typescript": "^3.9.7"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "0BSD",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "lint": "eslint --ignore-path .gitignore \"**/*.{js,jsx}\"",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public -r https://$GH_TOKEN@github.com/andrastimar/dockly.git",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timarandras/timarandras.github.io"
+  },
+  "bugs": {
+    "url": "https://github.com/timarandras/timarandras.github.io/issues"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "eslint.alwaysShowStatus": true,
+  "eslint.packageManager": "yarn",
+  "eslint.run": "onSave",
+  "eslint.codeAction.showDocumentation": {
+    "enable": true
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "files.watcherExclude": {
+    "**/public/**": true,
+    "**/.cache/**": true,
+    "**/src/themes/**": true
+  },
+  "prettier.arrowParens": "avoid",
+  "prettier.endOfLine": "auto",
+  "prettier.jsxSingleQuote": true,
+  "prettier.packageManager": "yarn",
+  "prettier.printWidth": 120,
+  "prettier.singleQuote": true,
+}

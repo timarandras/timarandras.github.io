@@ -1,0 +1,12 @@
+{
+  "exclude": ["node_modules"],
+  "include": ["src/**/*"],
+  "typeAcquisition": {
+    "enable": true
+  },
+  "compilerOptions": {
+    "checkJs": true,
+    "jsx": "react",
+    "baseUrl": ".",
+  }
+}
