@@ -1,4 +1,5 @@
 module.exports = {
+  collectCoverageFrom: ['src/**/*.{js,jsx}', '!**/node_modules/**'],
   transform: {
     '^.+\\.jsx?$': '<rootDir>/jest-preprocess.js',
   },
