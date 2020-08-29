@@ -4,20 +4,11 @@
  *
  * See: https://www.gatsbyjs.org/docs/use-static-query/
  */
-import 'primeicons/primeicons.css';
-import 'primereact/resources/themes/nova-light/theme.css';
-import 'primereact/resources/primereact.min.css';
-
-import { Panel } from 'primereact/panel';
+import { Container } from '@material-ui/core';
 import PropTypes from 'prop-types';
 import React from 'react';
 
-const Layout = ({ children }) => (
-  <>
-    <Panel header="">Content</Panel>
-    {children}
-  </>
-);
+const Layout = ({ children }) => <Container maxWidth="md">{children}</Container>;
 
 Layout.propTypes = {
   children: PropTypes.node.isRequired,

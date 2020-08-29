@@ -13,10 +13,4 @@
     "**/.cache/**": true,
     "**/src/themes/**": true
   },
-  "prettier.arrowParens": "avoid",
-  "prettier.endOfLine": "auto",
-  "prettier.jsxSingleQuote": true,
-  "prettier.packageManager": "yarn",
-  "prettier.printWidth": 120,
-  "prettier.singleQuote": true,
 }

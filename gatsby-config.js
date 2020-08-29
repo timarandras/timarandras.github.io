@@ -1,10 +1,12 @@
 module.exports = {
   siteMetadata: {
     title: 'András Timár',
-    description: 'András Timár\'s personal site',
+    description: "András Timár's personal site",
     author: 'timaromar@gmail.com',
   },
   plugins: [
+    `gatsby-plugin-material-ui`,
+    `gatsby-theme-material-ui`,
     'gatsby-plugin-react-helmet',
     {
       resolve: 'gatsby-source-filesystem',
