@@ -6,7 +6,9 @@
   "author": "András Timár, PhD <timaromar@gmail.com>",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
+    "@material-ui/styles": "^4.10.0",
     "babel-jest": "^26.3.0",
+    "fontsource-roboto": "^3.0.3",
     "gatsby": "^2.24.47",
     "gatsby-plugin-manifest": "^2.4.23",
     "gatsby-plugin-material-ui": "^2.1.10",
@@ -56,7 +58,6 @@
     "deploy": "gatsby build && gh-pages -d public -r https://$GH_TOKEN@github.com/timarandras/timarandras.github.io.git",
     "test": "jest",
     "test:ci": "jest --ci --coverage"
-
   },
   "repository": {
     "type": "git",
