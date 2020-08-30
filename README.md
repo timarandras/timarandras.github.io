@@ -1,4 +1,4 @@
-# [Introductory website](https://timarandras.github.io/)
+# [timarandras.github.io](https://timarandras.github.io/)
 
 [![Travis (.com)](https://img.shields.io/travis/com/timarandras/timarandras.github.io?style=plastic)](https://travis-ci.com/timarandras/timarandras.github.io)
 [![Codecov](https://img.shields.io/codecov/c/github/timarandras/timarandras.github.io?style=plastic)](https://codecov.io/gh/timarandras/timarandras.github.io)
