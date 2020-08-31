@@ -47,6 +47,7 @@ const IndexPage = () => {
               <CardContent>
                 <img src="https://www.gravatar.com/avatar/8a67307a6895a1cfd5e6144771dcaaf2" />
                 <List>
+                  <ListItemAvatar />
                   <ListItem>
                     <ListItemText primary="Single-line item" secondary="Secondary text" />
                   </ListItem>
