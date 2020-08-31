@@ -4,17 +4,29 @@
  *
  * See: https://www.gatsbyjs.org/docs/use-static-query/
  */
-import { Container } from '@material-ui/core';
-import { ThemeProvider } from '@material-ui/core/styles';
+import { Checkbox, Container } from '@material-ui/core';
+import green from '@material-ui/core/colors/green';
+import purple from '@material-ui/core/colors/purple';
+import { createMuiTheme, responsiveFontSizes, ThemeProvider } from '@material-ui/core/styles';
 import PropTypes from 'prop-types';
 import React from 'react';
 
-const theme = {
-  background: 'linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%)',
-};
+let theme = createMuiTheme({
+  palette: {
+    primary: {
+      main: purple[500],
+    },
+    secondary: {
+      main: green[500],
+    },
+  },
+});
+
+theme = responsiveFontSizes(theme);
 
 const Layout = ({ children }) => (
   <ThemeProvider theme={theme}>
+    <Checkbox defaultChecked />
     <Container maxWidth="lg">{children}</Container>
   </ThemeProvider>
 );
