@@ -1,8 +1,9 @@
 # [timarandras.github.io](https://timarandras.github.io/)
 
-[![Travis (.com)](https://img.shields.io/travis/com/timarandras/timarandras.github.io?style=plastic)](https://travis-ci.com/timarandras/timarandras.github.io)
-[![Codecov](https://img.shields.io/codecov/c/github/timarandras/timarandras.github.io?style=plastic)](https://codecov.io/gh/timarandras/timarandras.github.io)
-![GitHub last commit](https://img.shields.io/github/last-commit/timarandras/timarandras.github.io?style=plastic)
+[![Travis (.com)](https://img.shields.io/travis/com/timarandras/timarandras.github.io?style=plastic&logo=travis)](https://travis-ci.com/timarandras/timarandras.github.io)
+[![Codecov](https://img.shields.io/codecov/c/github/timarandras/timarandras.github.io?style=plastic&logo=codecov)](https://codecov.io/gh/timarandras/timarandras.github.io)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/timarandras/timarandras.github.io.svg?logo=lgtm&style=plastic)](https://lgtm.com/projects/g/timarandras/timarandras.github.io/context:javascript)
+![GitHub last commit](https://img.shields.io/github/last-commit/timarandras/timarandras.github.io?style=plastic&logo=github)
 ![GitHub language count](https://img.shields.io/github/languages/count/timarandras/timarandras.github.io?style=plastic)
 ![GitHub top language](https://img.shields.io/github/languages/top/timarandras/timarandras.github.io?style=plastic)
 ![GitHub](https://img.shields.io/github/license/timarandras/timarandras.github.io?style=plastic)
