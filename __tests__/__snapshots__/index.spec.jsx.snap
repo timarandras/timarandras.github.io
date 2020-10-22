@@ -2,7 +2,7 @@
 
 exports[`Layout renders correctly 1`] = `
 <div
-  className="MuiContainer-root MuiContainer-maxWidthMd"
+  className="MuiContainer-root MuiContainer-maxWidthLg"
 >
   <div>
     content

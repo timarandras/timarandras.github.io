@@ -9,9 +9,7 @@ import { ThemeProvider } from '@material-ui/core/styles';
 import PropTypes from 'prop-types';
 import React from 'react';
 
-const theme = {
-  background: 'linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%)',
-};
+import theme from '../gatsby-theme-material-ui-top-layout/theme';
 
 const Layout = ({ children }) => (
   <ThemeProvider theme={theme}>
