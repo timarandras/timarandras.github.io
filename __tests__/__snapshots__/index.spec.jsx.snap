@@ -8,7 +8,7 @@ exports[`Index Matches snapshot 1`] = `
     class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3"
   >
     <div
-      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2 MuiGrid-grid-lg-3"
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-4"
     >
       <div
         class="MuiPaper-root MuiCard-root MuiPaper-elevation8 MuiPaper-rounded"
@@ -275,7 +275,7 @@ exports[`Index Matches snapshot 1`] = `
       </div>
     </div>
     <div
-      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2 MuiGrid-grid-lg-3"
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-4"
     >
       <div
         class="MuiPaper-root MuiCard-root MuiPaper-elevation8 MuiPaper-rounded"
@@ -458,7 +458,7 @@ exports[`Index Matches snapshot 1`] = `
       </div>
     </div>
     <div
-      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2 MuiGrid-grid-lg-3"
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-4"
     >
       <div
         class="MuiPaper-root MuiCard-root MuiPaper-elevation8 MuiPaper-rounded"
@@ -600,7 +600,7 @@ exports[`Index Matches snapshot 1`] = `
     class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3"
   >
     <div
-      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2 MuiGrid-grid-lg-3"
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-lg-12"
     >
       <div
         class="MuiPaper-root MuiCard-root MuiPaper-elevation8 MuiPaper-rounded"
@@ -644,7 +644,7 @@ exports[`Index Matches snapshot 1`] = `
             class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1"
           >
             <div
-              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-4"
             >
               <div
                 class="MuiPaper-root MuiPaper-elevation5 MuiPaper-rounded"
@@ -873,7 +873,7 @@ exports[`Index Matches snapshot 1`] = `
               </div>
             </div>
             <div
-              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-4"
             >
               <div
                 class="MuiPaper-root MuiPaper-elevation5 MuiPaper-rounded"
@@ -1192,7 +1192,7 @@ exports[`Index Matches snapshot 1`] = `
               </div>
             </div>
             <div
-              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-4"
             >
               <div
                 class="MuiPaper-root MuiPaper-elevation5 MuiPaper-rounded"
@@ -1376,7 +1376,7 @@ exports[`Index Matches snapshot 1`] = `
               </div>
             </div>
             <div
-              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-4"
             >
               <div
                 class="MuiPaper-root MuiPaper-elevation5 MuiPaper-rounded"
@@ -1560,7 +1560,7 @@ exports[`Index Matches snapshot 1`] = `
               </div>
             </div>
             <div
-              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-4"
             >
               <div
                 class="MuiPaper-root MuiPaper-elevation5 MuiPaper-rounded"
@@ -1744,7 +1744,7 @@ exports[`Index Matches snapshot 1`] = `
               </div>
             </div>
             <div
-              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-4"
             >
               <div
                 class="MuiPaper-root MuiPaper-elevation5 MuiPaper-rounded"
@@ -1928,7 +1928,7 @@ exports[`Index Matches snapshot 1`] = `
               </div>
             </div>
             <div
-              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-4"
             >
               <div
                 class="MuiPaper-root MuiPaper-elevation5 MuiPaper-rounded"
@@ -2022,7 +2022,7 @@ exports[`Index Matches snapshot 1`] = `
               </div>
             </div>
             <div
-              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-4"
             >
               <div
                 class="MuiPaper-root MuiPaper-elevation5 MuiPaper-rounded"

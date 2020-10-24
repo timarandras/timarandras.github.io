@@ -66,7 +66,7 @@ export default function ExperienceCard() {
         <Grid container spacing={1}>
           {/* eslint-disable react/no-array-index-key */}
           {Object.keys(skills).map((type, k) => (
-            <Grid key={k} item xs={4}>
+            <Grid key={k} item xs={12} md={6} lg={4}>
               <SkillsTable type={type} />
             </Grid>
           ))}

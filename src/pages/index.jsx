@@ -14,18 +14,18 @@ const IndexPage = () => {
     <Layout>
       <SEO title="About me" />
       <Grid container spacing={3}>
-        <Grid item xs={2} lg={3}>
+        <Grid item xs={12} md={6} lg={4}>
           <PersonalCard />
         </Grid>
-        <Grid item xs={2} lg={3}>
+        <Grid item xs={12} md={6} lg={4}>
           <JobsCard />
         </Grid>
-        <Grid item xs={2} lg={3}>
+        <Grid item xs={12} md={6} lg={4}>
           <EducationCard />
         </Grid>
       </Grid>
       <Grid container spacing={3}>
-        <Grid item xs={2} lg={3}>
+        <Grid item xs={12} lg={12}>
           <ExperienceCard />
         </Grid>
       </Grid>
