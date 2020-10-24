@@ -2,8 +2,8 @@
 
 [![Travis (.com)](https://img.shields.io/travis/com/timarandras/timarandras.github.io?style=plastic&logo=travis)](https://travis-ci.com/timarandras/timarandras.github.io)
 [![Codecov](https://img.shields.io/codecov/c/github/timarandras/timarandras.github.io?style=plastic&logo=codecov)](https://codecov.io/gh/timarandras/timarandras.github.io)
-![Sonar Quality Gate](https://img.shields.io/sonar/quality_gate/timarandras_timarandras.github.io?server=https%3A%2F%2Fsonarcloud.io&style=plastic&logo=sonarcloud)
-![Sonar Violations (short format)](https://img.shields.io/sonar/violations/timarandras_timarandras.github.io?format=long&logo=sonarcloud&server=https%3A%2F%2Fsonarcloud.io&style=plastic)
+[![Sonar Quality Gate](https://img.shields.io/sonar/quality_gate/timarandras_timarandras.github.io?server=https%3A%2F%2Fsonarcloud.io&style=plastic&logo=sonarcloud)](https://sonarcloud.io/dashboard?id=timarandras_timarandras.github.io)
+[![Sonar Violations (short format)](https://img.shields.io/sonar/violations/timarandras_timarandras.github.io?format=long&logo=sonarcloud&server=https%3A%2F%2Fsonarcloud.io&style=plastic)](https://sonarcloud.io/dashboard?id=timarandras_timarandras.github.io)
 ![GitHub last commit](https://img.shields.io/github/last-commit/timarandras/timarandras.github.io?style=plastic&logo=github)
 ![GitHub language count](https://img.shields.io/github/languages/count/timarandras/timarandras.github.io?style=plastic)
 ![GitHub top language](https://img.shields.io/github/languages/top/timarandras/timarandras.github.io?style=plastic)
