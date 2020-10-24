@@ -1,0 +1,138 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EducationCard Matches snapshot 1`] = `
+<div
+  class="MuiPaper-root MuiCard-root MuiPaper-elevation8 MuiPaper-rounded"
+>
+  <div
+    class="MuiCardHeader-root"
+  >
+    <div
+      class="MuiCardHeader-avatar"
+    >
+      <svg
+        aria-hidden="true"
+        class="svg-inline--fa fa-graduation-cap fa-w-20 fa-2x "
+        data-icon="graduation-cap"
+        data-prefix="fas"
+        focusable="false"
+        role="img"
+        viewBox="0 0 640 512"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M622.34 153.2L343.4 67.5c-15.2-4.67-31.6-4.67-46.79 0L17.66 153.2c-23.54 7.23-23.54 38.36 0 45.59l48.63 14.94c-10.67 13.19-17.23 29.28-17.88 46.9C38.78 266.15 32 276.11 32 288c0 10.78 5.68 19.85 13.86 25.65L20.33 428.53C18.11 438.52 25.71 448 35.94 448h56.11c10.24 0 17.84-9.48 15.62-19.47L82.14 313.65C90.32 307.85 96 298.78 96 288c0-11.57-6.47-21.25-15.66-26.87.76-15.02 8.44-28.3 20.69-36.72L296.6 284.5c9.06 2.78 26.44 6.25 46.79 0l278.95-85.7c23.55-7.24 23.55-38.36 0-45.6zM352.79 315.09c-28.53 8.76-52.84 3.92-65.59 0l-145.02-44.55L128 384c0 35.35 85.96 64 192 64s192-28.65 192-64l-14.18-113.47-145.03 44.56z"
+          fill="currentColor"
+        />
+      </svg>
+    </div>
+    <div
+      class="MuiCardHeader-content"
+    >
+      <h5
+        class="MuiTypography-root MuiTypography-h5"
+      >
+        Education
+      </h5>
+    </div>
+  </div>
+  <div
+    class="MuiCardContent-root"
+  >
+    <ul
+      class="MuiList-root MuiList-padding"
+    >
+      <a
+        aria-disabled="false"
+        class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button"
+        href="https://www.eet.bme.hu/"
+        rel="noreferrer noopener"
+        tabindex="0"
+        target="_blank"
+      >
+        <div
+          class="MuiListItemIcon-root"
+        >
+          <svg
+            aria-hidden="true"
+            class="svg-inline--fa fa-brain fa-w-18 fa-2x "
+            data-icon="brain"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            viewBox="0 0 576 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M208 0c-29.9 0-54.7 20.5-61.8 48.2-.8 0-1.4-.2-2.2-.2-35.3 0-64 28.7-64 64 0 4.8.6 9.5 1.7 14C52.5 138 32 166.6 32 200c0 12.6 3.2 24.3 8.3 34.9C16.3 248.7 0 274.3 0 304c0 33.3 20.4 61.9 49.4 73.9-.9 4.6-1.4 9.3-1.4 14.1 0 39.8 32.2 72 72 72 4.1 0 8.1-.5 12-1.2 9.6 28.5 36.2 49.2 68 49.2 39.8 0 72-32.2 72-72V64c0-35.3-28.7-64-64-64zm368 304c0-29.7-16.3-55.3-40.3-69.1 5.2-10.6 8.3-22.3 8.3-34.9 0-33.4-20.5-62-49.7-74 1-4.5 1.7-9.2 1.7-14 0-35.3-28.7-64-64-64-.8 0-1.5.2-2.2.2C422.7 20.5 397.9 0 368 0c-35.3 0-64 28.6-64 64v376c0 39.8 32.2 72 72 72 31.8 0 58.4-20.7 68-49.2 3.9.7 7.9 1.2 12 1.2 39.8 0 72-32.2 72-72 0-4.8-.5-9.5-1.4-14.1 29-12 49.4-40.6 49.4-73.9z"
+              fill="currentColor"
+            />
+          </svg>
+        </div>
+        <div
+          class="MuiListItemText-root MuiListItemText-multiline"
+        >
+          <span
+            class="MuiTypography-root MuiListItemText-primary MuiTypography-body1 MuiTypography-displayBlock"
+          >
+            PhD Degree
+          </span>
+          <p
+            class="MuiTypography-root MuiListItemText-secondary MuiTypography-body2 MuiTypography-colorTextSecondary MuiTypography-displayBlock"
+          >
+            Budapest University of Technology and Economics | 2013
+          </p>
+        </div>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </a>
+      <a
+        aria-disabled="false"
+        class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button"
+        href="https://www.eet.bme.hu/"
+        rel="noreferrer noopener"
+        tabindex="0"
+        target="_blank"
+      >
+        <div
+          class="MuiListItemIcon-root"
+        >
+          <svg
+            aria-hidden="true"
+            class="svg-inline--fa fa-graduation-cap fa-w-20 fa-2x "
+            data-icon="graduation-cap"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            viewBox="0 0 640 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M622.34 153.2L343.4 67.5c-15.2-4.67-31.6-4.67-46.79 0L17.66 153.2c-23.54 7.23-23.54 38.36 0 45.59l48.63 14.94c-10.67 13.19-17.23 29.28-17.88 46.9C38.78 266.15 32 276.11 32 288c0 10.78 5.68 19.85 13.86 25.65L20.33 428.53C18.11 438.52 25.71 448 35.94 448h56.11c10.24 0 17.84-9.48 15.62-19.47L82.14 313.65C90.32 307.85 96 298.78 96 288c0-11.57-6.47-21.25-15.66-26.87.76-15.02 8.44-28.3 20.69-36.72L296.6 284.5c9.06 2.78 26.44 6.25 46.79 0l278.95-85.7c23.55-7.24 23.55-38.36 0-45.6zM352.79 315.09c-28.53 8.76-52.84 3.92-65.59 0l-145.02-44.55L128 384c0 35.35 85.96 64 192 64s192-28.65 192-64l-14.18-113.47-145.03 44.56z"
+              fill="currentColor"
+            />
+          </svg>
+        </div>
+        <div
+          class="MuiListItemText-root MuiListItemText-multiline"
+        >
+          <span
+            class="MuiTypography-root MuiListItemText-primary MuiTypography-body1 MuiTypography-displayBlock"
+          >
+            Electrical Engineer MSc.
+          </span>
+          <p
+            class="MuiTypography-root MuiListItemText-secondary MuiTypography-body2 MuiTypography-colorTextSecondary MuiTypography-displayBlock"
+          >
+            Budapest University of Technology and Economics | 2006
+          </p>
+        </div>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </a>
+    </ul>
+  </div>
+</div>
+`;

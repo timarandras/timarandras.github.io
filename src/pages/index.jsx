@@ -1,10 +1,13 @@
-import 'fontsource-roboto';
-
-import { Button, Card, CardContent, Grid, Typography } from '@material-ui/core';
+import { Grid } from '@material-ui/core';
 import React from 'react';
 
-import Layout from '../components/layout';
-import SEO from '../components/seo';
+import EducationCard from '../components/EducationCard';
+import ExperienceCard from '../components/ExperienceCard';
+import JobsCard from '../components/JobsCard';
+import Layout from '../components/Layout';
+import PersonalCard from '../components/PersonalCard';
+import SEO from '../components/Seo';
+import SourceCard from '../components/SourceCard';
 
 const IndexPage = () => {
   return (
@@ -12,49 +15,25 @@ const IndexPage = () => {
       <SEO title="About me" />
       <Grid container spacing={3}>
         <Grid item xs>
-          <Card>
-            <CardContent>
-              <Typography color="textSecondary" gutterBottom>
-                Word of the Day
-              </Typography>
-              <Typography variant="h5" component="h2">
-                be nevo lent
-              </Typography>
-              <Typography variant="body2" component="p">
-                well meaning and kindly.
-                <br />
-                "a benevolent smile"
-              </Typography>
-            </CardContent>
-          </Card>
+          <PersonalCard />
         </Grid>
         <Grid item xs>
-          <Card>xs</Card>
+          <JobsCard />
         </Grid>
         <Grid item xs>
-          <Card>xs</Card>
+          <EducationCard />
         </Grid>
       </Grid>
       <Grid container spacing={3}>
         <Grid item xs>
-          <Card>xs</Card>
-        </Grid>
-        <Grid item xs={6}>
-          <Card>xs=6</Card>
-        </Grid>
-        <Grid item xs>
-          <Card>xs</Card>
+          <ExperienceCard />
         </Grid>
       </Grid>
-
-      <h1>András Timár, PhD</h1>
-      <h2>Soon...</h2>
-      <Button variant="contained" color="primary">
-        noausd
-      </Button>
-      <Button variant="contained" color="secondary">
-        noausd
-      </Button>
+      <Grid container spacing={3}>
+        <Grid item xs>
+          <SourceCard />
+        </Grid>
+      </Grid>
     </Layout>
   );
 };

@@ -1,5 +1,10 @@
 module.exports = {
-  collectCoverageFrom: ['src/**/*.{js,jsx}', '!**/node_modules/**'],
+  collectCoverageFrom: [
+    'src/**/*.{js,jsx}',
+    '!**/node_modules/**',
+    '!src/components/skills.js',
+    '!src/gatsby-theme-material-ui-top-layout/**',
+  ],
   transform: {
     '^.+\\.jsx?$': '<rootDir>/jest-preprocess.js',
   },

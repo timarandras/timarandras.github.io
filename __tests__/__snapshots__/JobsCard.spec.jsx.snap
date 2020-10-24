@@ -1,0 +1,183 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`JobsCard Matches snapshot 1`] = `
+<div
+  class="MuiPaper-root MuiCard-root MuiPaper-elevation8 MuiPaper-rounded"
+>
+  <div
+    class="MuiCardHeader-root"
+  >
+    <div
+      class="MuiCardHeader-avatar"
+    >
+      <svg
+        aria-hidden="true"
+        class="svg-inline--fa fa-suitcase fa-w-16 fa-2x "
+        data-icon="suitcase"
+        data-prefix="fas"
+        focusable="false"
+        role="img"
+        viewBox="0 0 512 512"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M128 480h256V80c0-26.5-21.5-48-48-48H176c-26.5 0-48 21.5-48 48v400zm64-384h128v32H192V96zm320 80v256c0 26.5-21.5 48-48 48h-48V128h48c26.5 0 48 21.5 48 48zM96 480H48c-26.5 0-48-21.5-48-48V176c0-26.5 21.5-48 48-48h48v352z"
+          fill="currentColor"
+        />
+      </svg>
+    </div>
+    <div
+      class="MuiCardHeader-content"
+    >
+      <h5
+        class="MuiTypography-root MuiTypography-h5"
+      >
+        Jobs
+      </h5>
+    </div>
+  </div>
+  <div
+    class="MuiCardContent-root"
+  >
+    <ul
+      class="MuiList-root MuiList-padding"
+    >
+      <a
+        aria-disabled="false"
+        class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button"
+        href="https://www.c3s.hu/"
+        rel="noreferrer noopener"
+        tabindex="0"
+        target="_blank"
+      >
+        <div
+          class="MuiListItemIcon-root"
+        >
+          <svg
+            aria-hidden="true"
+            class="svg-inline--fa fa-satellite fa-w-16 fa-2x "
+            data-icon="satellite"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            viewBox="0 0 512 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M502.60969,310.04206l-96.70393,96.71625a31.88151,31.88151,0,0,1-45.00765,0L280.572,326.34115l-9.89231,9.90759a190.56343,190.56343,0,0,1-5.40716,168.52287c-4.50077,8.50115-16.39342,9.59505-23.20707,2.79725L134.54715,400.05428l-17.7999,17.79929c.70324,2.60972,1.60965,5.00067,1.60965,7.79793a32.00544,32.00544,0,1,1-32.00544-32.00434c2.79735,0,5.18838.90637,7.7982,1.60959l17.7999-17.79929L4.43129,269.94287c-6.798-6.81342-5.70409-18.6119,2.79735-23.20627a190.58161,190.58161,0,0,1,168.52864-5.407l9.79854-9.79821-80.31053-80.41716a32.002,32.002,0,0,1,0-45.09987L201.96474,9.29814A31.62639,31.62639,0,0,1,224.46868,0a31.99951,31.99951,0,0,1,22.59759,9.29814l80.32615,80.30777,47.805-47.89713a33.6075,33.6075,0,0,1,47.50808,0l47.50807,47.50645a33.63308,33.63308,0,0,1,0,47.50644l-47.805,47.89713L502.71908,265.036A31.78938,31.78938,0,0,1,502.60969,310.04206ZM219.56159,197.433l73.82505-73.82252-68.918-68.9-73.80942,73.80689Zm237.74352,90.106-68.90233-68.9156-73.825,73.82252,68.918,68.9Z"
+              fill="currentColor"
+            />
+          </svg>
+        </div>
+        <div
+          class="MuiListItemText-root MuiListItemText-multiline"
+        >
+          <span
+            class="MuiTypography-root MuiListItemText-primary MuiTypography-body1 MuiTypography-displayBlock"
+          >
+            Aerospace Software Engineer
+          </span>
+          <p
+            class="MuiTypography-root MuiListItemText-secondary MuiTypography-body2 MuiTypography-colorTextSecondary MuiTypography-displayBlock"
+          >
+            C3S LLC. | 2016 - current
+          </p>
+        </div>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </a>
+      <a
+        aria-disabled="false"
+        class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button"
+        href="https://www.eet.bme.hu/"
+        rel="noreferrer noopener"
+        tabindex="0"
+        target="_blank"
+      >
+        <div
+          class="MuiListItemIcon-root"
+        >
+          <svg
+            aria-hidden="true"
+            class="svg-inline--fa fa-user-graduate fa-w-14 fa-2x "
+            data-icon="user-graduate"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            viewBox="0 0 448 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M319.4 320.6L224 416l-95.4-95.4C57.1 323.7 0 382.2 0 454.4v9.6c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48v-9.6c0-72.2-57.1-130.7-128.6-133.8zM13.6 79.8l6.4 1.5v58.4c-7 4.2-12 11.5-12 20.3 0 8.4 4.6 15.4 11.1 19.7L3.5 242c-1.7 6.9 2.1 14 7.6 14h41.8c5.5 0 9.3-7.1 7.6-14l-15.6-62.3C51.4 175.4 56 168.4 56 160c0-8.8-5-16.1-12-20.3V87.1l66 15.9c-8.6 17.2-14 36.4-14 57 0 70.7 57.3 128 128 128s128-57.3 128-128c0-20.6-5.3-39.8-14-57l96.3-23.2c18.2-4.4 18.2-27.1 0-31.5l-190.4-46c-13-3.1-26.7-3.1-39.7 0L13.6 48.2c-18.1 4.4-18.1 27.2 0 31.6z"
+              fill="currentColor"
+            />
+          </svg>
+        </div>
+        <div
+          class="MuiListItemText-root MuiListItemText-multiline"
+        >
+          <span
+            class="MuiTypography-root MuiListItemText-primary MuiTypography-body1 MuiTypography-displayBlock"
+          >
+            Senior Lecturer | IT SysAdmin
+          </span>
+          <p
+            class="MuiTypography-root MuiListItemText-secondary MuiTypography-body2 MuiTypography-colorTextSecondary MuiTypography-displayBlock"
+          >
+            Budapest University of Technology and Economics | 2014 - current
+          </p>
+        </div>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </a>
+      <a
+        aria-disabled="false"
+        class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button"
+        href="https://www.eet.bme.hu/"
+        rel="noreferrer noopener"
+        tabindex="0"
+        target="_blank"
+      >
+        <div
+          class="MuiListItemIcon-root"
+        >
+          <svg
+            aria-hidden="true"
+            class="svg-inline--fa fa-code fa-w-20 fa-2x "
+            data-icon="code"
+            data-prefix="fas"
+            focusable="false"
+            role="img"
+            viewBox="0 0 640 512"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M278.9 511.5l-61-17.7c-6.4-1.8-10-8.5-8.2-14.9L346.2 8.7c1.8-6.4 8.5-10 14.9-8.2l61 17.7c6.4 1.8 10 8.5 8.2 14.9L293.8 503.3c-1.9 6.4-8.5 10.1-14.9 8.2zm-114-112.2l43.5-46.4c4.6-4.9 4.3-12.7-.8-17.2L117 256l90.6-79.7c5.1-4.5 5.5-12.3.8-17.2l-43.5-46.4c-4.5-4.8-12.1-5.1-17-.5L3.8 247.2c-5.1 4.7-5.1 12.8 0 17.5l144.1 135.1c4.9 4.6 12.5 4.4 17-.5zm327.2.6l144.1-135.1c5.1-4.7 5.1-12.8 0-17.5L492.1 112.1c-4.8-4.5-12.4-4.3-17 .5L431.6 159c-4.6 4.9-4.3 12.7.8 17.2L523 256l-90.6 79.7c-5.1 4.5-5.5 12.3-.8 17.2l43.5 46.4c4.5 4.9 12.1 5.1 17 .6z"
+              fill="currentColor"
+            />
+          </svg>
+        </div>
+        <div
+          class="MuiListItemText-root MuiListItemText-multiline"
+        >
+          <span
+            class="MuiTypography-root MuiListItemText-primary MuiTypography-body1 MuiTypography-displayBlock"
+          >
+            C++/Qt Application Developer
+          </span>
+          <p
+            class="MuiTypography-root MuiListItemText-secondary MuiTypography-body2 MuiTypography-colorTextSecondary MuiTypography-displayBlock"
+          >
+            Mediagnost Co. Ltd. | 2005 - 2007
+          </p>
+        </div>
+        <span
+          class="MuiTouchRipple-root"
+        />
+      </a>
+    </ul>
+  </div>
+</div>
+`;

@@ -1,0 +1,1610 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ExperienceCard Matches snapshot 1`] = `
+<div
+  class="MuiPaper-root MuiCard-root MuiPaper-elevation8 MuiPaper-rounded"
+>
+  <div
+    class="MuiCardHeader-root"
+  >
+    <div
+      class="MuiCardHeader-avatar"
+    >
+      <svg
+        aria-hidden="true"
+        class="svg-inline--fa fa-flask fa-w-14 fa-2x "
+        data-icon="flask"
+        data-prefix="fas"
+        focusable="false"
+        role="img"
+        viewBox="0 0 448 512"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M437.2 403.5L320 215V64h8c13.3 0 24-10.7 24-24V24c0-13.3-10.7-24-24-24H120c-13.3 0-24 10.7-24 24v16c0 13.3 10.7 24 24 24h8v151L10.8 403.5C-18.5 450.6 15.3 512 70.9 512h306.2c55.7 0 89.4-61.5 60.1-108.5zM137.9 320l48.2-77.6c3.7-5.2 5.8-11.6 5.8-18.4V64h64v160c0 6.9 2.2 13.2 5.8 18.4l48.2 77.6h-172z"
+          fill="currentColor"
+        />
+      </svg>
+    </div>
+    <div
+      class="MuiCardHeader-content"
+    >
+      <h5
+        class="MuiTypography-root MuiTypography-h5"
+      >
+        Experience | Skills
+      </h5>
+    </div>
+  </div>
+  <div
+    class="MuiCardContent-root"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+      >
+        <div
+          class="MuiPaper-root MuiPaper-elevation5 MuiPaper-rounded"
+        >
+          <div
+            class="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-h6"
+            >
+              Languages
+            </h6>
+          </div>
+          <div
+            class="MuiTableContainer-root"
+          >
+            <table
+              class="MuiTable-root"
+            >
+              <thead
+                class="MuiTableHead-root"
+              >
+                <tr
+                  class="MuiTableRow-root MuiTableRow-head"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter"
+                    scope="col"
+                  >
+                    Skill
+                  </th>
+                  <th
+                    class="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter"
+                    scope="col"
+                  >
+                    Level
+                  </th>
+                </tr>
+              </thead>
+              <tbody
+                class="MuiTableBody-root"
+              >
+                <tr
+                  class="MuiTableRow-root"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-body"
+                    role="cell"
+                    scope="row"
+                  >
+                    JavaScript | ES2020
+                  </th>
+                  <td
+                    class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-1"
+                    >
+                      <div
+                        class="MuiBox-root MuiBox-root-2"
+                      >
+                        <div
+                          aria-valuemax="100"
+                          aria-valuemin="0"
+                          aria-valuenow="90"
+                          class="MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-determinate"
+                          role="progressbar"
+                        >
+                          <div
+                            class="MuiLinearProgress-bar MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate"
+                            style="transform: translateX(-10%);"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-3"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+                        >
+                          9
+                          /10
+                        </p>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+                <tr
+                  class="MuiTableRow-root"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-body"
+                    role="cell"
+                    scope="row"
+                  >
+                    C++17/20
+                  </th>
+                  <td
+                    class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-4"
+                    >
+                      <div
+                        class="MuiBox-root MuiBox-root-5"
+                      >
+                        <div
+                          aria-valuemax="100"
+                          aria-valuemin="0"
+                          aria-valuenow="75"
+                          class="MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-determinate"
+                          role="progressbar"
+                        >
+                          <div
+                            class="MuiLinearProgress-bar MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate"
+                            style="transform: translateX(-25%);"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-6"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+                        >
+                          7.5
+                          /10
+                        </p>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+                <tr
+                  class="MuiTableRow-root"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-body"
+                    role="cell"
+                    scope="row"
+                  >
+                    HTML5
+                  </th>
+                  <td
+                    class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-7"
+                    >
+                      <div
+                        class="MuiBox-root MuiBox-root-8"
+                      >
+                        <div
+                          aria-valuemax="100"
+                          aria-valuemin="0"
+                          aria-valuenow="70"
+                          class="MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-determinate"
+                          role="progressbar"
+                        >
+                          <div
+                            class="MuiLinearProgress-bar MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate"
+                            style="transform: translateX(-30%);"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-9"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+                        >
+                          7
+                          /10
+                        </p>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+                <tr
+                  class="MuiTableRow-root"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-body"
+                    role="cell"
+                    scope="row"
+                  >
+                    Typescript
+                  </th>
+                  <td
+                    class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-10"
+                    >
+                      <div
+                        class="MuiBox-root MuiBox-root-11"
+                      >
+                        <div
+                          aria-valuemax="100"
+                          aria-valuemin="0"
+                          aria-valuenow="30"
+                          class="MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-determinate"
+                          role="progressbar"
+                        >
+                          <div
+                            class="MuiLinearProgress-bar MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate"
+                            style="transform: translateX(-70%);"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-12"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+                        >
+                          3
+                          /10
+                        </p>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+      >
+        <div
+          class="MuiPaper-root MuiPaper-elevation5 MuiPaper-rounded"
+        >
+          <div
+            class="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-h6"
+            >
+              Frameworks
+            </h6>
+          </div>
+          <div
+            class="MuiTableContainer-root"
+          >
+            <table
+              class="MuiTable-root"
+            >
+              <thead
+                class="MuiTableHead-root"
+              >
+                <tr
+                  class="MuiTableRow-root MuiTableRow-head"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter"
+                    scope="col"
+                  >
+                    Skill
+                  </th>
+                  <th
+                    class="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter"
+                    scope="col"
+                  >
+                    Level
+                  </th>
+                </tr>
+              </thead>
+              <tbody
+                class="MuiTableBody-root"
+              >
+                <tr
+                  class="MuiTableRow-root"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-body"
+                    role="cell"
+                    scope="row"
+                  >
+                    React
+                  </th>
+                  <td
+                    class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-13"
+                    >
+                      <div
+                        class="MuiBox-root MuiBox-root-14"
+                      >
+                        <div
+                          aria-valuemax="100"
+                          aria-valuemin="0"
+                          aria-valuenow="90"
+                          class="MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-determinate"
+                          role="progressbar"
+                        >
+                          <div
+                            class="MuiLinearProgress-bar MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate"
+                            style="transform: translateX(-10%);"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-15"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+                        >
+                          9
+                          /10
+                        </p>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+                <tr
+                  class="MuiTableRow-root"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-body"
+                    role="cell"
+                    scope="row"
+                  >
+                    NodeJS
+                  </th>
+                  <td
+                    class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-16"
+                    >
+                      <div
+                        class="MuiBox-root MuiBox-root-17"
+                      >
+                        <div
+                          aria-valuemax="100"
+                          aria-valuemin="0"
+                          aria-valuenow="90"
+                          class="MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-determinate"
+                          role="progressbar"
+                        >
+                          <div
+                            class="MuiLinearProgress-bar MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate"
+                            style="transform: translateX(-10%);"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-18"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+                        >
+                          9
+                          /10
+                        </p>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+                <tr
+                  class="MuiTableRow-root"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-body"
+                    role="cell"
+                    scope="row"
+                  >
+                    Gatsby
+                  </th>
+                  <td
+                    class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-19"
+                    >
+                      <div
+                        class="MuiBox-root MuiBox-root-20"
+                      >
+                        <div
+                          aria-valuemax="100"
+                          aria-valuemin="0"
+                          aria-valuenow="90"
+                          class="MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-determinate"
+                          role="progressbar"
+                        >
+                          <div
+                            class="MuiLinearProgress-bar MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate"
+                            style="transform: translateX(-10%);"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-21"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+                        >
+                          9
+                          /10
+                        </p>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+                <tr
+                  class="MuiTableRow-root"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-body"
+                    role="cell"
+                    scope="row"
+                  >
+                    Material UI
+                  </th>
+                  <td
+                    class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-22"
+                    >
+                      <div
+                        class="MuiBox-root MuiBox-root-23"
+                      >
+                        <div
+                          aria-valuemax="100"
+                          aria-valuemin="0"
+                          aria-valuenow="85"
+                          class="MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-determinate"
+                          role="progressbar"
+                        >
+                          <div
+                            class="MuiLinearProgress-bar MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate"
+                            style="transform: translateX(-15%);"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-24"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+                        >
+                          8.5
+                          /10
+                        </p>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+                <tr
+                  class="MuiTableRow-root"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-body"
+                    role="cell"
+                    scope="row"
+                  >
+                    REST API
+                  </th>
+                  <td
+                    class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-25"
+                    >
+                      <div
+                        class="MuiBox-root MuiBox-root-26"
+                      >
+                        <div
+                          aria-valuemax="100"
+                          aria-valuemin="0"
+                          aria-valuenow="90"
+                          class="MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-determinate"
+                          role="progressbar"
+                        >
+                          <div
+                            class="MuiLinearProgress-bar MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate"
+                            style="transform: translateX(-10%);"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-27"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+                        >
+                          9
+                          /10
+                        </p>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+                <tr
+                  class="MuiTableRow-root"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-body"
+                    role="cell"
+                    scope="row"
+                  >
+                    Redux
+                  </th>
+                  <td
+                    class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-28"
+                    >
+                      <div
+                        class="MuiBox-root MuiBox-root-29"
+                      >
+                        <div
+                          aria-valuemax="100"
+                          aria-valuemin="0"
+                          aria-valuenow="50"
+                          class="MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-determinate"
+                          role="progressbar"
+                        >
+                          <div
+                            class="MuiLinearProgress-bar MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate"
+                            style="transform: translateX(-50%);"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-30"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+                        >
+                          5
+                          /10
+                        </p>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+      >
+        <div
+          class="MuiPaper-root MuiPaper-elevation5 MuiPaper-rounded"
+        >
+          <div
+            class="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-h6"
+            >
+              OS
+            </h6>
+          </div>
+          <div
+            class="MuiTableContainer-root"
+          >
+            <table
+              class="MuiTable-root"
+            >
+              <thead
+                class="MuiTableHead-root"
+              >
+                <tr
+                  class="MuiTableRow-root MuiTableRow-head"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter"
+                    scope="col"
+                  >
+                    Skill
+                  </th>
+                  <th
+                    class="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter"
+                    scope="col"
+                  >
+                    Level
+                  </th>
+                </tr>
+              </thead>
+              <tbody
+                class="MuiTableBody-root"
+              >
+                <tr
+                  class="MuiTableRow-root"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-body"
+                    role="cell"
+                    scope="row"
+                  >
+                    Linux
+                  </th>
+                  <td
+                    class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-31"
+                    >
+                      <div
+                        class="MuiBox-root MuiBox-root-32"
+                      >
+                        <div
+                          aria-valuemax="100"
+                          aria-valuemin="0"
+                          aria-valuenow="90"
+                          class="MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-determinate"
+                          role="progressbar"
+                        >
+                          <div
+                            class="MuiLinearProgress-bar MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate"
+                            style="transform: translateX(-10%);"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-33"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+                        >
+                          9
+                          /10
+                        </p>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+                <tr
+                  class="MuiTableRow-root"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-body"
+                    role="cell"
+                    scope="row"
+                  >
+                    Windows
+                  </th>
+                  <td
+                    class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-34"
+                    >
+                      <div
+                        class="MuiBox-root MuiBox-root-35"
+                      >
+                        <div
+                          aria-valuemax="100"
+                          aria-valuemin="0"
+                          aria-valuenow="85"
+                          class="MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-determinate"
+                          role="progressbar"
+                        >
+                          <div
+                            class="MuiLinearProgress-bar MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate"
+                            style="transform: translateX(-15%);"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-36"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+                        >
+                          8.5
+                          /10
+                        </p>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+                <tr
+                  class="MuiTableRow-root"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-body"
+                    role="cell"
+                    scope="row"
+                  >
+                    Networking
+                  </th>
+                  <td
+                    class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-37"
+                    >
+                      <div
+                        class="MuiBox-root MuiBox-root-38"
+                      >
+                        <div
+                          aria-valuemax="100"
+                          aria-valuemin="0"
+                          aria-valuenow="75"
+                          class="MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-determinate"
+                          role="progressbar"
+                        >
+                          <div
+                            class="MuiLinearProgress-bar MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate"
+                            style="transform: translateX(-25%);"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-39"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+                        >
+                          7.5
+                          /10
+                        </p>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+      >
+        <div
+          class="MuiPaper-root MuiPaper-elevation5 MuiPaper-rounded"
+        >
+          <div
+            class="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-h6"
+            >
+              Continuous Integration
+            </h6>
+          </div>
+          <div
+            class="MuiTableContainer-root"
+          >
+            <table
+              class="MuiTable-root"
+            >
+              <thead
+                class="MuiTableHead-root"
+              >
+                <tr
+                  class="MuiTableRow-root MuiTableRow-head"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter"
+                    scope="col"
+                  >
+                    Skill
+                  </th>
+                  <th
+                    class="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter"
+                    scope="col"
+                  >
+                    Level
+                  </th>
+                </tr>
+              </thead>
+              <tbody
+                class="MuiTableBody-root"
+              >
+                <tr
+                  class="MuiTableRow-root"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-body"
+                    role="cell"
+                    scope="row"
+                  >
+                    CI/CD/CQ
+                  </th>
+                  <td
+                    class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-40"
+                    >
+                      <div
+                        class="MuiBox-root MuiBox-root-41"
+                      >
+                        <div
+                          aria-valuemax="100"
+                          aria-valuemin="0"
+                          aria-valuenow="85"
+                          class="MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-determinate"
+                          role="progressbar"
+                        >
+                          <div
+                            class="MuiLinearProgress-bar MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate"
+                            style="transform: translateX(-15%);"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-42"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+                        >
+                          8.5
+                          /10
+                        </p>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+                <tr
+                  class="MuiTableRow-root"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-body"
+                    role="cell"
+                    scope="row"
+                  >
+                    SonarSource
+                  </th>
+                  <td
+                    class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-43"
+                    >
+                      <div
+                        class="MuiBox-root MuiBox-root-44"
+                      >
+                        <div
+                          aria-valuemax="100"
+                          aria-valuemin="0"
+                          aria-valuenow="70"
+                          class="MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-determinate"
+                          role="progressbar"
+                        >
+                          <div
+                            class="MuiLinearProgress-bar MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate"
+                            style="transform: translateX(-30%);"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-45"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+                        >
+                          7
+                          /10
+                        </p>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+                <tr
+                  class="MuiTableRow-root"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-body"
+                    role="cell"
+                    scope="row"
+                  >
+                    Travis
+                  </th>
+                  <td
+                    class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-46"
+                    >
+                      <div
+                        class="MuiBox-root MuiBox-root-47"
+                      >
+                        <div
+                          aria-valuemax="100"
+                          aria-valuemin="0"
+                          aria-valuenow="20"
+                          class="MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-determinate"
+                          role="progressbar"
+                        >
+                          <div
+                            class="MuiLinearProgress-bar MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate"
+                            style="transform: translateX(-80%);"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-48"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+                        >
+                          2
+                          /10
+                        </p>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+      >
+        <div
+          class="MuiPaper-root MuiPaper-elevation5 MuiPaper-rounded"
+        >
+          <div
+            class="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-h6"
+            >
+              Testing
+            </h6>
+          </div>
+          <div
+            class="MuiTableContainer-root"
+          >
+            <table
+              class="MuiTable-root"
+            >
+              <thead
+                class="MuiTableHead-root"
+              >
+                <tr
+                  class="MuiTableRow-root MuiTableRow-head"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter"
+                    scope="col"
+                  >
+                    Skill
+                  </th>
+                  <th
+                    class="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter"
+                    scope="col"
+                  >
+                    Level
+                  </th>
+                </tr>
+              </thead>
+              <tbody
+                class="MuiTableBody-root"
+              >
+                <tr
+                  class="MuiTableRow-root"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-body"
+                    role="cell"
+                    scope="row"
+                  >
+                    Jest
+                  </th>
+                  <td
+                    class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-49"
+                    >
+                      <div
+                        class="MuiBox-root MuiBox-root-50"
+                      >
+                        <div
+                          aria-valuemax="100"
+                          aria-valuemin="0"
+                          aria-valuenow="90"
+                          class="MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-determinate"
+                          role="progressbar"
+                        >
+                          <div
+                            class="MuiLinearProgress-bar MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate"
+                            style="transform: translateX(-10%);"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-51"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+                        >
+                          9
+                          /10
+                        </p>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+                <tr
+                  class="MuiTableRow-root"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-body"
+                    role="cell"
+                    scope="row"
+                  >
+                    Mocha
+                  </th>
+                  <td
+                    class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-52"
+                    >
+                      <div
+                        class="MuiBox-root MuiBox-root-53"
+                      >
+                        <div
+                          aria-valuemax="100"
+                          aria-valuemin="0"
+                          aria-valuenow="80"
+                          class="MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-determinate"
+                          role="progressbar"
+                        >
+                          <div
+                            class="MuiLinearProgress-bar MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate"
+                            style="transform: translateX(-20%);"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-54"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+                        >
+                          8
+                          /10
+                        </p>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+                <tr
+                  class="MuiTableRow-root"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-body"
+                    role="cell"
+                    scope="row"
+                  >
+                    Storybook
+                  </th>
+                  <td
+                    class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-55"
+                    >
+                      <div
+                        class="MuiBox-root MuiBox-root-56"
+                      >
+                        <div
+                          aria-valuemax="100"
+                          aria-valuemin="0"
+                          aria-valuenow="70"
+                          class="MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-determinate"
+                          role="progressbar"
+                        >
+                          <div
+                            class="MuiLinearProgress-bar MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate"
+                            style="transform: translateX(-30%);"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-57"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+                        >
+                          7
+                          /10
+                        </p>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+      >
+        <div
+          class="MuiPaper-root MuiPaper-elevation5 MuiPaper-rounded"
+        >
+          <div
+            class="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-h6"
+            >
+              DevOps
+            </h6>
+          </div>
+          <div
+            class="MuiTableContainer-root"
+          >
+            <table
+              class="MuiTable-root"
+            >
+              <thead
+                class="MuiTableHead-root"
+              >
+                <tr
+                  class="MuiTableRow-root MuiTableRow-head"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter"
+                    scope="col"
+                  >
+                    Skill
+                  </th>
+                  <th
+                    class="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter"
+                    scope="col"
+                  >
+                    Level
+                  </th>
+                </tr>
+              </thead>
+              <tbody
+                class="MuiTableBody-root"
+              >
+                <tr
+                  class="MuiTableRow-root"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-body"
+                    role="cell"
+                    scope="row"
+                  >
+                    Atlassian Stack
+                  </th>
+                  <td
+                    class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-58"
+                    >
+                      <div
+                        class="MuiBox-root MuiBox-root-59"
+                      >
+                        <div
+                          aria-valuemax="100"
+                          aria-valuemin="0"
+                          aria-valuenow="90"
+                          class="MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-determinate"
+                          role="progressbar"
+                        >
+                          <div
+                            class="MuiLinearProgress-bar MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate"
+                            style="transform: translateX(-10%);"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-60"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+                        >
+                          9
+                          /10
+                        </p>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+                <tr
+                  class="MuiTableRow-root"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-body"
+                    role="cell"
+                    scope="row"
+                  >
+                    Git
+                  </th>
+                  <td
+                    class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-61"
+                    >
+                      <div
+                        class="MuiBox-root MuiBox-root-62"
+                      >
+                        <div
+                          aria-valuemax="100"
+                          aria-valuemin="0"
+                          aria-valuenow="70"
+                          class="MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-determinate"
+                          role="progressbar"
+                        >
+                          <div
+                            class="MuiLinearProgress-bar MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate"
+                            style="transform: translateX(-30%);"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-63"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+                        >
+                          7
+                          /10
+                        </p>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+                <tr
+                  class="MuiTableRow-root"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-body"
+                    role="cell"
+                    scope="row"
+                  >
+                    Azure
+                  </th>
+                  <td
+                    class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-64"
+                    >
+                      <div
+                        class="MuiBox-root MuiBox-root-65"
+                      >
+                        <div
+                          aria-valuemax="100"
+                          aria-valuemin="0"
+                          aria-valuenow="40"
+                          class="MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-determinate"
+                          role="progressbar"
+                        >
+                          <div
+                            class="MuiLinearProgress-bar MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate"
+                            style="transform: translateX(-60%);"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-66"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+                        >
+                          4
+                          /10
+                        </p>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+      >
+        <div
+          class="MuiPaper-root MuiPaper-elevation5 MuiPaper-rounded"
+        >
+          <div
+            class="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-h6"
+            >
+              Containers
+            </h6>
+          </div>
+          <div
+            class="MuiTableContainer-root"
+          >
+            <table
+              class="MuiTable-root"
+            >
+              <thead
+                class="MuiTableHead-root"
+              >
+                <tr
+                  class="MuiTableRow-root MuiTableRow-head"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter"
+                    scope="col"
+                  >
+                    Skill
+                  </th>
+                  <th
+                    class="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter"
+                    scope="col"
+                  >
+                    Level
+                  </th>
+                </tr>
+              </thead>
+              <tbody
+                class="MuiTableBody-root"
+              >
+                <tr
+                  class="MuiTableRow-root"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-body"
+                    role="cell"
+                    scope="row"
+                  >
+                    Docker
+                  </th>
+                  <td
+                    class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-67"
+                    >
+                      <div
+                        class="MuiBox-root MuiBox-root-68"
+                      >
+                        <div
+                          aria-valuemax="100"
+                          aria-valuemin="0"
+                          aria-valuenow="80"
+                          class="MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-determinate"
+                          role="progressbar"
+                        >
+                          <div
+                            class="MuiLinearProgress-bar MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate"
+                            style="transform: translateX(-20%);"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-69"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+                        >
+                          8
+                          /10
+                        </p>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+      >
+        <div
+          class="MuiPaper-root MuiPaper-elevation5 MuiPaper-rounded"
+        >
+          <div
+            class="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-h6"
+            >
+              Databases
+            </h6>
+          </div>
+          <div
+            class="MuiTableContainer-root"
+          >
+            <table
+              class="MuiTable-root"
+            >
+              <thead
+                class="MuiTableHead-root"
+              >
+                <tr
+                  class="MuiTableRow-root MuiTableRow-head"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter"
+                    scope="col"
+                  >
+                    Skill
+                  </th>
+                  <th
+                    class="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter"
+                    scope="col"
+                  >
+                    Level
+                  </th>
+                </tr>
+              </thead>
+              <tbody
+                class="MuiTableBody-root"
+              >
+                <tr
+                  class="MuiTableRow-root"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-body"
+                    role="cell"
+                    scope="row"
+                  >
+                    MongoDB
+                  </th>
+                  <td
+                    class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-70"
+                    >
+                      <div
+                        class="MuiBox-root MuiBox-root-71"
+                      >
+                        <div
+                          aria-valuemax="100"
+                          aria-valuemin="0"
+                          aria-valuenow="80"
+                          class="MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-determinate"
+                          role="progressbar"
+                        >
+                          <div
+                            class="MuiLinearProgress-bar MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate"
+                            style="transform: translateX(-20%);"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-72"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+                        >
+                          8
+                          /10
+                        </p>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+                <tr
+                  class="MuiTableRow-root"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-body"
+                    role="cell"
+                    scope="row"
+                  >
+                    MySQL
+                  </th>
+                  <td
+                    class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-73"
+                    >
+                      <div
+                        class="MuiBox-root MuiBox-root-74"
+                      >
+                        <div
+                          aria-valuemax="100"
+                          aria-valuemin="0"
+                          aria-valuenow="70"
+                          class="MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-determinate"
+                          role="progressbar"
+                        >
+                          <div
+                            class="MuiLinearProgress-bar MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate"
+                            style="transform: translateX(-30%);"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-75"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+                        >
+                          7
+                          /10
+                        </p>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+                <tr
+                  class="MuiTableRow-root"
+                >
+                  <th
+                    class="MuiTableCell-root MuiTableCell-body"
+                    role="cell"
+                    scope="row"
+                  >
+                    PostgreSQL
+                  </th>
+                  <td
+                    class="MuiTableCell-root MuiTableCell-body MuiTableCell-alignRight"
+                  >
+                    <div
+                      class="MuiBox-root MuiBox-root-76"
+                    >
+                      <div
+                        class="MuiBox-root MuiBox-root-77"
+                      >
+                        <div
+                          aria-valuemax="100"
+                          aria-valuemin="0"
+                          aria-valuenow="50"
+                          class="MuiLinearProgress-root MuiLinearProgress-colorPrimary MuiLinearProgress-determinate"
+                          role="progressbar"
+                        >
+                          <div
+                            class="MuiLinearProgress-bar MuiLinearProgress-barColorPrimary MuiLinearProgress-bar1Determinate"
+                            style="transform: translateX(-50%);"
+                          />
+                        </div>
+                      </div>
+                      <div
+                        class="MuiBox-root MuiBox-root-78"
+                      >
+                        <p
+                          class="MuiTypography-root MuiTypography-body2 MuiTypography-colorTextSecondary"
+                        >
+                          5
+                          /10
+                        </p>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

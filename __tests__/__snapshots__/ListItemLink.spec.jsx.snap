@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListItemLink Matches snapshot 1`] = `
+<a
+  aria-disabled="false"
+  class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button"
+  href="#dummy"
+  tabindex="0"
+>
+  <span
+    class="MuiTouchRipple-root"
+  />
+</a>
+`;
