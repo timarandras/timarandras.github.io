@@ -5,7 +5,7 @@ import React from 'react';
 
 import ListItemLink from './ListItemLink';
 
-export default function JobsCard() {
+export default function EducationCard() {
   return (
     <Card raised>
       <CardHeader

@@ -3,7 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { Card, CardContent, Link, Typography } from '@material-ui/core';
 import React from 'react';
 
-export default function EducationCard() {
+export default function SourceCard() {
   return (
     <Card raised>
       <CardContent>

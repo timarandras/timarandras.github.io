@@ -13,4 +13,8 @@
     "**/.cache/**": true,
     "**/src/themes/**": true
   },
+  "sonarlint.connectedMode.project": {
+      "connectionId": "sonarcloud",
+      "projectKey": "timarandras_timarandras.github.io"
+  },
 }
