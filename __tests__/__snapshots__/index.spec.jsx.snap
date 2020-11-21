@@ -2292,6 +2292,16 @@ exports[`Index Matches snapshot 1`] = `
             </a>
           </p>
         </div>
+        <div
+          class="MuiCardContent-root"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-body1 MuiTypography-colorTextSecondary MuiTypography-alignCenter"
+          >
+            Last updated 
+            just now
+          </p>
+        </div>
       </div>
     </div>
   </div>
