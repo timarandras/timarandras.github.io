@@ -8,7 +8,14 @@ module.exports = {
     es2020: true,
     jest: true,
   },
-  extends: ['eslint:recommended', 'plugin:react/recommended', 'airbnb', 'airbnb/hooks', 'plugin:prettier/recommended'],
+  extends: [
+    'eslint:recommended',
+    'plugin:react/recommended',
+    'airbnb',
+    'airbnb/hooks',
+    'plugin:prettier/recommended',
+    'prettier/react',
+  ],
   parserOptions: {
     ecmaFeatures: {
       jsx: true,

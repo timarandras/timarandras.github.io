@@ -8,11 +8,13 @@ import Layout from '../components/Layout';
 import PersonalCard from '../components/PersonalCard';
 import SEO from '../components/Seo';
 import SourceCard from '../components/SourceCard';
+import ThemeButton from '../components/ThemeButton';
 
 const IndexPage = () => {
   return (
     <Layout>
       <SEO title="About me" />
+      <ThemeButton />
       <Grid container spacing={3}>
         <Grid item xs={12} md={6} lg={4}>
           <PersonalCard />
